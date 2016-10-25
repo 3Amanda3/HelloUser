@@ -6,3 +6,4 @@
 \\sjsdfs1.sjsd.lcl\students\a.schepp\my documents\visual studio 2015\Projects\HelloWorld\HelloWorld\obj\Debug\HelloWorld.csproj.GenerateResource.Cache
 \\sjsdfs1.sjsd.lcl\students\a.schepp\my documents\visual studio 2015\Projects\HelloWorld\HelloWorld\obj\Debug\HelloWorld.exe
 \\sjsdfs1.sjsd.lcl\students\a.schepp\my documents\visual studio 2015\Projects\HelloWorld\HelloWorld\obj\Debug\HelloWorld.pdb
+\\SJSDFS1.SJSD.LCL\Students\a.schepp\My Documents\visual studio 2015\Projects\HelloWorld\HelloWorld\obj\Debug\HelloWorld.csprojResolveAssemblyReference.cache
